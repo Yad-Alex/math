@@ -1,0 +1,35 @@
+.imghtpt{
+    width: 800px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.imgsrcbmjgh{
+    width: 250px;
+    margin-left: 172px;
+}
+
+.imgjo{
+    margin-left: 40px;
+}
+
+main{
+    background-color: #3CA0D0;
+    border-radius: 25px;
+    margin-top: 1px;
+}
+
+footer{
+    border-radius: 25px;
+    background-color: #3CA0D0;
+    padding: 25px;
+    margin-top: 1px;
+}
+
+h2{
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+}
